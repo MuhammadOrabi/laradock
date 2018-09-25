@@ -142,3 +142,7 @@ function fs() {
 		du $arg .[^.]* ./*;
 	fi;
 }
+
+
+alias mokf="cd /var/www/Work/mokafat"
+alias qar="cd /var/www/Work/qarenhom2"
